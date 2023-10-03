@@ -1,11 +1,11 @@
 body {
-  color: #eee;
-  background-color: #222;
+  color: #ff3f7f;
+  background-color: #ffe1f0;
   font-family: sans-serif;
 }
 
 a {
-  color: aqua;
+  color: rgb(127, 212, 88);
 }
 
 a:hover {
