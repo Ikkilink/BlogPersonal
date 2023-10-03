@@ -6,7 +6,7 @@ tags: libros
 
 # {{title}}
 
-Neon Genesis Evangelion es un anime psicológico el cual habla sobre los problemas de la adolescencia, traumas, inseguridad y como superarlo. Todo esto se desarrolla en un mundo futurísta con mechas gigantes llamados EVAs hechos para pelear contra los ángeles, una raza alienígena que nadie sabe de donde vienen. 
+Neon Genesis Evangelion es un anime psicológico el cual habla sobre los problemas de la adolescencia, traumas, inseguridad y como superarlo. Todo esto se desarrolla en un mundo futurísta con mechas gigantes llamados EVAs hechos para pelear contra los ángeles, una raza alienígena que nadie sabsqhsjqhsjqse de donde vienen. 
 La historia comienza con Shinji, un adolescente de 14 años el cual fue llamado por su padre ya que lo 
 ![ser Feliz]({{ '/static/img/ser-feliz.jpg' | url }})
 
