@@ -14,7 +14,7 @@ title: Blog de Carol
 
 ## Artículos de mi Blog
 
-### Categoría Libros
+### Mis animes favoritos 
 
 {% for libro in collections.libros %}
 
@@ -22,7 +22,7 @@ title: Blog de Carol
 
 {% endfor %}
 
-### Categoria Series
+### Mis videojuegos favoritos
 
 {% for serie in collections.series %}
 
