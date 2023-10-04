@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Reseña del libro 2
+title: Reseña de Serial Experiment Lain
 tags: libros
 ---
 

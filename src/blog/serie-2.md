@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Reseña de la serie 2
+title: The Legend of Zelda Majora´s Maks
 tags: series
 ---
 
