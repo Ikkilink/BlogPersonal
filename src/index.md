@@ -4,6 +4,11 @@ title: Blog de Carol
 ---
 
 # {{ title }}
+ - I'm currently learning how to make web pages with VS ☽˚｡･ﾟ✧:･.:
+ - ‧₊˚✧ I'm a aspiring game developer✧˚₊‧
+ - C#, Java, JS, C++    
+
+
 
 [Acerca]({{ '/acerca' | url }})
 
@@ -33,4 +38,4 @@ title: Blog de Carol
 
 {% endfor %}
 
-
+![ser Feliz]({{ '/static/img/micara.jpg' | url }})

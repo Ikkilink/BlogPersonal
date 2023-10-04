@@ -5,7 +5,10 @@ title: Sección Acerca
 
 # {{ title }}
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
+Esye es mi blog :D
+Carol Alejandra Torres Cortes
+Practica 6
+https://github.com/Ikkilink/BlogPersonal/actions/runs/6412232340
 
 ![ser Feliz]({{ '/static/img/ser-feliz.jpg' | url }})
 
